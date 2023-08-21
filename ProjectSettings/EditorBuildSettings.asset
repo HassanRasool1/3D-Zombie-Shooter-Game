@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/startup.unity
+    guid: c0b89f45db2328f4a83d7852deefd023
+  - enabled: 1
+    path: Assets/Invector-3rdPersonController/Add-ons/Controller_Mobile/Shooter (Require
+      Shooter Template)/Scenes/Invector_Mobile_Shooter_Inventory.unity
+    guid: aeb825e77e520164ba48d2dea5972168
+  - enabled: 1
+    path: Assets/Invector-3rdPersonController/Add-ons/Controller_Mobile/Shooter (Require
+      Shooter Template)/Scenes/Invector_Mobile_Shooter_Inventory 1.unity
+    guid: e49dd27e8d6928e4abb085b8705b7961
+  m_configObjects: {}
